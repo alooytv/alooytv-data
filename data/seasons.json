@@ -9098,5 +9098,19 @@
         "name": "الموسم الثاني",
         "order": "0",
         "publish": "1"
+    },
+    {
+        "seasons_id": "1319",
+        "videos_id": "1454",
+        "name": "الحريفة 2: الريمونتادا",
+        "order": "0",
+        "publish": "1"
+    },
+    {
+        "seasons_id": "1320",
+        "videos_id": "1455",
+        "name": "٦ أيام",
+        "order": "0",
+        "publish": "1"
     }
 ]
