@@ -9126,5 +9126,19 @@
         "name": "الأول من نوعه",
         "order": "0",
         "publish": "1"
+    },
+    {
+        "seasons_id": "1323",
+        "videos_id": "1458",
+        "name": "الموسم الاول",
+        "order": "0",
+        "publish": "1"
+    },
+    {
+        "seasons_id": "1324",
+        "videos_id": "1459",
+        "name": "الموسم الاول",
+        "order": "0",
+        "publish": "1"
     }
 ]
