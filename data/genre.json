@@ -5,9 +5,7 @@
         "description": "مسلسلات خليجية",
         "slug": "kleeji",
         "publication": "1",
-        "featured": "1",
-        "display_order": "1",
-        "is_main": "1"
+        "featured": "1"
     },
     {
         "genre_id": "63",
@@ -15,9 +13,7 @@
         "description": "مسلسلات عربية",
         "slug": "arabic",
         "publication": "1",
-        "featured": "1",
-        "display_order": "0",
-        "is_main": "0"
+        "featured": "1"
     },
     {
         "genre_id": "64",
@@ -25,9 +21,7 @@
         "description": "مسلسلات تركية",
         "slug": "turki",
         "publication": "1",
-        "featured": "1",
-        "display_order": "0",
-        "is_main": "0"
+        "featured": "1"
     },
     {
         "genre_id": "93",
@@ -35,9 +29,7 @@
         "description": "مسلسلات رمضان الخليجية سنة 2023",
         "slug": "ramadan-kleeji",
         "publication": "1",
-        "featured": "1",
-        "display_order": "0",
-        "is_main": "0"
+        "featured": "1"
     },
     {
         "genre_id": "94",
@@ -45,9 +37,7 @@
         "description": "مسسلات رمضان العربية سنة 2023",
         "slug": "ramadan-arabi",
         "publication": "1",
-        "featured": "1",
-        "display_order": "0",
-        "is_main": "0"
+        "featured": "1"
     },
     {
         "genre_id": "107",
@@ -55,9 +45,7 @@
         "description": "مسلسلات رمضان الخليجية سنة 2024",
         "slug": "ramadan-kleeji-2024",
         "publication": "1",
-        "featured": "1",
-        "display_order": "0",
-        "is_main": "0"
+        "featured": "1"
     },
     {
         "genre_id": "108",
@@ -65,9 +53,7 @@
         "description": "مسلسلات رمضان العربية سنة 2024",
         "slug": "ramadan-arabi-2024",
         "publication": "1",
-        "featured": "1",
-        "display_order": "0",
-        "is_main": "0"
+        "featured": "1"
     },
     {
         "genre_id": "109",
@@ -75,9 +61,7 @@
         "description": "مسلسلات فارسية",
         "slug": "farisi",
         "publication": "1",
-        "featured": "1",
-        "display_order": "0",
-        "is_main": "0"
+        "featured": "1"
     },
     {
         "genre_id": "110",
@@ -85,9 +69,7 @@
         "description": "مسلسلات رمضان العربية سنة 2025",
         "slug": "ramadan-arabi-2025",
         "publication": "1",
-        "featured": "1",
-        "display_order": "0",
-        "is_main": "0"
+        "featured": "1"
     },
     {
         "genre_id": "111",
@@ -95,9 +77,7 @@
         "description": "مسلسلات رمضان الخليجية سنة 2025",
         "slug": "ramadan-kleeji-2025",
         "publication": "1",
-        "featured": "1",
-        "display_order": "0",
-        "is_main": "0"
+        "featured": "1"
     },
     {
         "genre_id": "112",
@@ -105,9 +85,7 @@
         "description": "انمي",
         "slug": "anmi",
         "publication": "1",
-        "featured": "1",
-        "display_order": "0",
-        "is_main": "0"
+        "featured": "1"
     },
     {
         "genre_id": "113",
@@ -115,9 +93,7 @@
         "description": "افلام اجنبية",
         "slug": "foreign-movies",
         "publication": "1",
-        "featured": "1",
-        "display_order": "0",
-        "is_main": "0"
+        "featured": "1"
     },
     {
         "genre_id": "114",
@@ -125,9 +101,7 @@
         "description": "افلام كورية",
         "slug": "Korean-movies",
         "publication": "1",
-        "featured": "1",
-        "display_order": "0",
-        "is_main": "0"
+        "featured": "1"
     },
     {
         "genre_id": "115",
@@ -135,8 +109,6 @@
         "description": "مسلسلات اجنبية",
         "slug": "Foreign-series\r\n",
         "publication": "1",
-        "featured": "1",
-        "display_order": "0",
-        "is_main": "0"
+        "featured": "1"
     }
 ]
