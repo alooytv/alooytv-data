@@ -6697,5 +6697,19 @@
         "slug": "haroj",
         "genre": "62",
         "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1465",
+        "title": "هزاع",
+        "slug": "hazza",
+        "genre": "62",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1466",
+        "title": "A Working Man",
+        "slug": "a-working-man",
+        "genre": "113",
+        "is_tvseries": "1"
     }
 ]
