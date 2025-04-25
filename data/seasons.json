@@ -9196,5 +9196,12 @@
         "seasons_name": "شيخ روحاني",
         "order": "0",
         "publish": "1"
+    },
+    {
+        "seasons_id": "1333",
+        "videos_id": "1468",
+        "seasons_name": "الموسم الاول",
+        "order": "0",
+        "publish": "1"
     }
 ]
