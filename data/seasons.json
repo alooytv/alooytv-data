@@ -9203,5 +9203,19 @@
         "seasons_name": "الموسم الاول",
         "order": "0",
         "publish": "1"
+    },
+    {
+        "seasons_id": "1334",
+        "videos_id": "1469",
+        "seasons_name": "الموسم الاول",
+        "order": "0",
+        "publish": "1"
+    },
+    {
+        "seasons_id": "1335",
+        "videos_id": "1470",
+        "seasons_name": "الموسم الاول",
+        "order": "0",
+        "publish": "1"
     }
 ]
