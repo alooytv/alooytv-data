@@ -9224,5 +9224,12 @@
         "seasons_name": "الموسم الاول",
         "order": "0",
         "publish": "1"
+    },
+    {
+        "seasons_id": "1337",
+        "videos_id": "1472",
+        "seasons_name": "الموسم الاول",
+        "order": "0",
+        "publish": "1"
     }
 ]
