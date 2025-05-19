@@ -9231,5 +9231,47 @@
         "seasons_name": "الموسم الاول",
         "order": "0",
         "publish": "1"
+    },
+    {
+        "seasons_id": "1338",
+        "videos_id": "1473",
+        "seasons_name": "الموسم الاول",
+        "order": "0",
+        "publish": "1"
+    },
+    {
+        "seasons_id": "1339",
+        "videos_id": "1474",
+        "seasons_name": "الموسم الاول",
+        "order": "0",
+        "publish": "1"
+    },
+    {
+        "seasons_id": "1340",
+        "videos_id": "1475",
+        "seasons_name": "الموسم الثاني",
+        "order": "0",
+        "publish": "1"
+    },
+    {
+        "seasons_id": "1341",
+        "videos_id": "1476",
+        "seasons_name": "بضع ساعات في يوم ما",
+        "order": "0",
+        "publish": "1"
+    },
+    {
+        "seasons_id": "1342",
+        "videos_id": "1477",
+        "seasons_name": "الموسم الاول",
+        "order": "0",
+        "publish": "1"
+    },
+    {
+        "seasons_id": "1343",
+        "videos_id": "1478",
+        "seasons_name": "الموسم الاول",
+        "order": "0",
+        "publish": "1"
     }
 ]
