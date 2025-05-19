@@ -107,7 +107,15 @@
         "genre_id": "115",
         "name": "مسلسلات اجنبية",
         "description": "مسلسلات اجنبية",
-        "slug": "Foreign-series\r\n",
+        "slug": "Foreign-series",
+        "publication": "1",
+        "featured": "1"
+    },
+    {
+        "genre_id": "116",
+        "name": "مسلسلات كورية",
+        "description": "مسلسلات كورية",
+        "slug": "Korean-series",
         "publication": "1",
         "featured": "1"
     }
