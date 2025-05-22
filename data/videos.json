@@ -6921,5 +6921,19 @@
         "slug": "harb-al-jabali",
         "genre": "63",
         "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1479",
+        "title": "أرجين",
+        "slug": "arjen",
+        "genre": "64",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1480",
+        "title": "عبر الأثير",
+        "slug": "abra-al-atheer",
+        "genre": "62",
+        "is_tvseries": "1"
     }
 ]
