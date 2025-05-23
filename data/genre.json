@@ -118,5 +118,13 @@
         "slug": "Korean-series",
         "publication": "1",
         "featured": "1"
+    },
+    {
+        "genre_id": "117",
+        "name": "مسلسلات اسيوية",
+        "description": "مسلسلات اسيوية",
+        "slug": "asia-series",
+        "publication": "1",
+        "featured": "1"
     }
 ]
