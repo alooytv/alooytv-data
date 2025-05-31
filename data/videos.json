@@ -6956,5 +6956,12 @@
         "slug": "siyouf-al-arab",
         "genre": "62",
         "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1484",
+        "title": "فندق الأحلام",
+        "slug": "fondoq-al-ahlam",
+        "genre": "64",
+        "is_tvseries": "1"
     }
 ]
