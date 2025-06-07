@@ -9315,5 +9315,40 @@
         "seasons_name": "الموسم الاول",
         "order": "0",
         "publish": "1"
+    },
+    {
+        "seasons_id": "1350",
+        "videos_id": "1485",
+        "seasons_name": "سيكو سيكو",
+        "order": "0",
+        "publish": "1"
+    },
+    {
+        "seasons_id": "1351",
+        "videos_id": "1486",
+        "seasons_name": "هوبال",
+        "order": "0",
+        "publish": "1"
+    },
+    {
+        "seasons_id": "1352",
+        "videos_id": "1487",
+        "seasons_name": "ليلة العيد",
+        "order": "0",
+        "publish": "1"
+    },
+    {
+        "seasons_id": "1353",
+        "videos_id": "1488",
+        "seasons_name": "يوميات سكر: سبعبع وحبوب الخرزيز",
+        "order": "0",
+        "publish": "1"
+    },
+    {
+        "seasons_id": "1354",
+        "videos_id": "1489",
+        "seasons_name": "أحلام العصر",
+        "order": "0",
+        "publish": "1"
     }
 ]
