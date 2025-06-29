@@ -5911,7 +5911,7 @@
         "videos_id": "1332",
         "title": "لعبة الحبار 2",
         "slug": "84a53ae56e1d",
-        "genre": "63",
+        "genre": "117",
         "is_tvseries": "1"
     },
     {
@@ -6997,6 +6997,83 @@
         "title": "أحلام العصر",
         "slug": "ahlam-alasr",
         "genre": "62",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1490",
+        "title": "أبواب القدر ج2",
+        "slug": "zamanin-kapilari-2",
+        "genre": "64",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1491",
+        "title": "الصحبة الحلوة",
+        "slug": "al-sohba-al-holwa",
+        "genre": "62",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1492",
+        "title": "فات الميعاد",
+        "slug": "faat-elmaad",
+        "genre": "63",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1493",
+        "title": "الدشاش",
+        "slug": "el-dashash",
+        "genre": "63",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1494",
+        "title": "كويت رياض كويت",
+        "slug": "kuwait-riyadh-kuwait",
+        "genre": "62",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1495",
+        "title": "لعبة الحبار ج3 مترجم",
+        "slug": "squid-game-3",
+        "genre": "117",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1496",
+        "title": "لعبة الحبار ج1 مترجم",
+        "slug": "squid-game-1",
+        "genre": "117",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1497",
+        "title": "لعبة الحبار ج1 مدبلج",
+        "slug": "squid-game-1-ar",
+        "genre": "117",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1498",
+        "title": "لعبة الحبار ج2 مدبلج",
+        "slug": "squid-game-2-ar",
+        "genre": "117",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1499",
+        "title": "لعبة الحبار ج3 مدبلج",
+        "slug": "squid-game-3-ar",
+        "genre": "117",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1500",
+        "title": "مملكة الحرير",
+        "slug": "mamlaket-al-hareer",
+        "genre": "63",
         "is_tvseries": "1"
     }
 ]
