@@ -6428,7 +6428,7 @@
     {
         "videos_id": "1408",
         "title": "لم الشمل",
-        "slug": "79b13551b4db",
+        "slug": "l-sm-l",
         "genre": "110",
         "is_tvseries": "1"
     },
@@ -6533,7 +6533,7 @@
     {
         "videos_id": "1423",
         "title": "كمامات وطن بلس",
-        "slug": "7bf51009a9e3",
+        "slug": "kmmtwb",
         "genre": "110",
         "is_tvseries": "1"
     },
@@ -6736,7 +6736,7 @@
     {
         "videos_id": "1452",
         "title": "الجنة",
-        "slug": "al-chanah",
+        "slug": "aljnah",
         "genre": "110",
         "is_tvseries": "1"
     },
@@ -7074,6 +7074,27 @@
         "title": "مملكة الحرير",
         "slug": "mamlaket-al-hareer",
         "genre": "63",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1501",
+        "title": "Ballerina",
+        "slug": "ballerina",
+        "genre": "113",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1502",
+        "title": "Thunderbolts*",
+        "slug": "thunderbolts",
+        "genre": "113",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1503",
+        "title": "Tornado",
+        "slug": "tornado",
+        "genre": "113",
         "is_tvseries": "1"
     }
 ]
