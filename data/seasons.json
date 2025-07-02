@@ -9427,5 +9427,26 @@
         "seasons_name": "الموسم الاول",
         "order": "0",
         "publish": "1"
+    },
+    {
+        "seasons_id": "1366",
+        "videos_id": "1501",
+        "seasons_name": "Ballerina",
+        "order": "0",
+        "publish": "1"
+    },
+    {
+        "seasons_id": "1367",
+        "videos_id": "1502",
+        "seasons_name": "Thunderbolts*",
+        "order": "0",
+        "publish": "1"
+    },
+    {
+        "seasons_id": "1368",
+        "videos_id": "1503",
+        "seasons_name": "Tornado",
+        "order": "0",
+        "publish": "1"
     }
 ]
