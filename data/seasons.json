@@ -9448,5 +9448,40 @@
         "seasons_name": "Tornado",
         "order": "0",
         "publish": "1"
+    },
+    {
+        "seasons_id": "1369",
+        "videos_id": "1504",
+        "seasons_name": "الموسم الثاني",
+        "order": "0",
+        "publish": "1"
+    },
+    {
+        "seasons_id": "1370",
+        "videos_id": "1505",
+        "seasons_name": "The Old Guard 2",
+        "order": "0",
+        "publish": "1"
+    },
+    {
+        "seasons_id": "1371",
+        "videos_id": "1506",
+        "seasons_name": "Heads of State",
+        "order": "0",
+        "publish": "1"
+    },
+    {
+        "seasons_id": "1372",
+        "videos_id": "1507",
+        "seasons_name": "الحرب العالمية السادسة",
+        "order": "0",
+        "publish": "1"
+    },
+    {
+        "seasons_id": "1373",
+        "videos_id": "1508",
+        "seasons_name": "الموسم الاول",
+        "order": "0",
+        "publish": "1"
     }
 ]
