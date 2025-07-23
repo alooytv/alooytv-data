@@ -6006,13 +6006,6 @@
         "is_tvseries": "1"
     },
     {
-        "videos_id": "1346",
-        "title": "الصفقة",
-        "slug": "1129c10e512e",
-        "genre": "62",
-        "is_tvseries": "1"
-    },
-    {
         "videos_id": "1347",
         "title": "الصفقة ج2",
         "slug": "3992b9bb355f",
@@ -7130,6 +7123,62 @@
         "title": "حمود وأبوه",
         "slug": "hmoud-wa-abouh",
         "genre": "62",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1509",
+        "title": "كتالوج",
+        "slug": "catalog",
+        "genre": "63",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1510",
+        "title": "هجان",
+        "slug": "hajjan",
+        "genre": "62",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1511",
+        "title": "تذكر الحب",
+        "slug": "tdkr-hob",
+        "genre": "64",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1512",
+        "title": "النادي الاهلي - الفوز او الفوز",
+        "slug": "al-fawz-aw-al-fawz",
+        "genre": "62",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1513",
+        "title": "مذكرات عائلية جدا",
+        "slug": "motkrat-aaliya",
+        "genre": "62",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1514",
+        "title": "على باب العمارة",
+        "slug": "ala-bab-alimara",
+        "genre": "63",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1515",
+        "title": "في كل اسبوع يوم جمعة",
+        "slug": "fee-kl-esboo-youm-juma",
+        "genre": "63",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1516",
+        "title": "رسائل إلى المستقبل",
+        "slug": "letters-from-the-past",
+        "genre": "64",
         "is_tvseries": "1"
     }
 ]
