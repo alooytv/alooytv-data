@@ -9102,7 +9102,7 @@
     {
         "seasons_id": "1319",
         "videos_id": "1454",
-        "seasons_name": "الحريفة 2: الريمونتادا",
+        "seasons_name": "الحريفة الجزء الاول والثاني",
         "order": "0",
         "publish": "1"
     },
@@ -9536,6 +9536,132 @@
     {
         "seasons_id": "1381",
         "videos_id": "1516",
+        "seasons_name": "الموسم الاول",
+        "order": "0",
+        "publish": "1"
+    },
+    {
+        "seasons_id": "1382",
+        "videos_id": "1517",
+        "seasons_name": "ريستارت",
+        "order": "0",
+        "publish": "1"
+    },
+    {
+        "seasons_id": "1383",
+        "videos_id": "1518",
+        "seasons_name": "الموسم الاول",
+        "order": "0",
+        "publish": "1"
+    },
+    {
+        "seasons_id": "1384",
+        "videos_id": "1519",
+        "seasons_name": "الموسم الاول",
+        "order": "0",
+        "publish": "1"
+    },
+    {
+        "seasons_id": "1385",
+        "videos_id": "1520",
+        "seasons_name": "الموسم الاول",
+        "order": "0",
+        "publish": "1"
+    },
+    {
+        "seasons_id": "1386",
+        "videos_id": "1521",
+        "seasons_name": "الموسم الاول",
+        "order": "0",
+        "publish": "1"
+    },
+    {
+        "seasons_id": "1387",
+        "videos_id": "1522",
+        "seasons_name": "الموسم الاول",
+        "order": "0",
+        "publish": "1"
+    },
+    {
+        "seasons_id": "1388",
+        "videos_id": "1523",
+        "seasons_name": "الموسم الاول",
+        "order": "0",
+        "publish": "1"
+    },
+    {
+        "seasons_id": "1389",
+        "videos_id": "1523",
+        "seasons_name": "الموسم الثاني",
+        "order": "0",
+        "publish": "1"
+    },
+    {
+        "seasons_id": "1390",
+        "videos_id": "1524",
+        "seasons_name": "الموسم الاول",
+        "order": "0",
+        "publish": "1"
+    },
+    {
+        "seasons_id": "1391",
+        "videos_id": "1525",
+        "seasons_name": "الموسم الاول",
+        "order": "0",
+        "publish": "1"
+    },
+    {
+        "seasons_id": "1392",
+        "videos_id": "1526",
+        "seasons_name": "الموسم الاول",
+        "order": "0",
+        "publish": "1"
+    },
+    {
+        "seasons_id": "1393",
+        "videos_id": "1527",
+        "seasons_name": "الموسم الاول",
+        "order": "0",
+        "publish": "1"
+    },
+    {
+        "seasons_id": "1394",
+        "videos_id": "1528",
+        "seasons_name": "الموسم الاول",
+        "order": "0",
+        "publish": "1"
+    },
+    {
+        "seasons_id": "1395",
+        "videos_id": "1529",
+        "seasons_name": "الموسم الاول",
+        "order": "0",
+        "publish": "1"
+    },
+    {
+        "seasons_id": "1396",
+        "videos_id": "1530",
+        "seasons_name": "الموسم الاول",
+        "order": "0",
+        "publish": "1"
+    },
+    {
+        "seasons_id": "1397",
+        "videos_id": "1531",
+        "seasons_name": "الموسم الاول",
+        "order": "0",
+        "publish": "1"
+    },
+    {
+        "seasons_id": "1398",
+        "videos_id": "1532",
+        "seasons_name": "الموسم الاول",
+        "order": "0",
+        "publish": "1"
+    },
+    {
+        "seasons_id": "1399",
+        "videos_id": "1533",
         "seasons_name": "الموسم الاول",
         "order": "0",
         "publish": "1"
