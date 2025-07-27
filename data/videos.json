@@ -6742,8 +6742,8 @@
     },
     {
         "videos_id": "1454",
-        "title": "الحريفة 2: الريمونتادا",
-        "slug": "el-harifa-2-el-remontada",
+        "title": "الحريفة الجزء الاول والثاني",
+        "slug": "hreefa-01-02",
         "genre": "63",
         "is_tvseries": "1"
     },
@@ -7178,6 +7178,125 @@
         "videos_id": "1516",
         "title": "رسائل إلى المستقبل",
         "slug": "letters-from-the-past",
+        "genre": "64",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1517",
+        "title": "ريستارت",
+        "slug": "restart",
+        "genre": "63",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1518",
+        "title": "Trigger",
+        "slug": "trigger",
+        "genre": "117",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1519",
+        "title": "Leviathan",
+        "slug": "leviathan",
+        "genre": "112",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1520",
+        "title": "ابو الملايين",
+        "slug": "abu-almlayyn",
+        "genre": "62",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1521",
+        "title": "حلم اشرف",
+        "slug": "holm-esref",
+        "genre": "64",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1522",
+        "title": "اذا تحدثنا فعلنا نادي الاتحاد السعودي",
+        "slug": "when-we-say-itti",
+        "genre": "62",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1523",
+        "title": "باها مدبلج",
+        "slug": "bahhar",
+        "genre": "64",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1524",
+        "title": "حجر الامنيات",
+        "slug": "ahjar-alomnyat",
+        "genre": "64",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1525",
+        "title": "لا تبكي اسطنبول",
+        "slug": "la-tabki-istanbul",
+        "genre": "64",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1526",
+        "title": "لا تخف انا بجانبك",
+        "slug": "la-takaf-ana-bjanbk",
+        "genre": "64",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1527",
+        "title": "الاسيرة مدبلج",
+        "slug": "alaseera",
+        "genre": "64",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1528",
+        "title": "الانكشاري مدبلج",
+        "slug": "alinkshary",
+        "genre": "64",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1529",
+        "title": "السبورة السوداء مدبلج",
+        "slug": "alsboora-alswda",
+        "genre": "64",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1530",
+        "title": "السحلية مدبلج",
+        "slug": "al-shlyah",
+        "genre": "64",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1531",
+        "title": "الغرفة 309 مدبلج",
+        "slug": "algorfa-309",
+        "genre": "64",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1532",
+        "title": "المتشرد مدبلج",
+        "slug": "almotshared",
+        "genre": "64",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1533",
+        "title": "انا كارينينا مدبلج",
+        "slug": "ana-karnena",
         "genre": "64",
         "is_tvseries": "1"
     }
