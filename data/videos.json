@@ -1564,7 +1564,7 @@
         "videos_id": "663",
         "title": "ساعي البريد",
         "slug": "e4c44973e045",
-        "genre": "62,78",
+        "genre": "62",
         "is_tvseries": "1"
     },
     {
@@ -4809,13 +4809,6 @@
         "is_tvseries": "1"
     },
     {
-        "videos_id": "1175",
-        "title": "متحف يدي",
-        "slug": "0cdcf9633bba",
-        "genre": "107",
-        "is_tvseries": "1"
-    },
-    {
         "videos_id": "1176",
         "title": "الشرار",
         "slug": "d675fa51ac77",
@@ -7683,6 +7676,69 @@
         "title": "لينك",
         "slug": "link",
         "genre": "63",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1594",
+        "title": "المرسى",
+        "slug": "al-marsa",
+        "genre": "62",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1595",
+        "title": "يد الحنة",
+        "slug": "yad-al-henna",
+        "genre": "63",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1596",
+        "title": "الطبعة",
+        "slug": "al-tabaa",
+        "genre": "62",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1597",
+        "title": "بنات البومب",
+        "slug": "banat-el-bomb",
+        "genre": "62",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1598",
+        "title": "سمبوسة چباتي",
+        "slug": "sambosa-chapati",
+        "genre": "62",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1599",
+        "title": "وحش حولي",
+        "slug": "the-monster-of-hawalli",
+        "genre": "62",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1600",
+        "title": "فينوم",
+        "slug": "venom",
+        "genre": "113",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1601",
+        "title": "فينوم 2 فليكن هناك مذبحة",
+        "slug": "venom-let-there-be-carnage",
+        "genre": "113",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1602",
+        "title": "فينوم 3 الرقصة الأخيرة",
+        "slug": "venom-the-last-dance",
+        "genre": "113",
         "is_tvseries": "1"
     }
 ]
