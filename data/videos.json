@@ -7702,7 +7702,7 @@
     {
         "videos_id": "1597",
         "title": "بنات البومب",
-        "slug": "banat-el-bomb",
+        "slug": "banat-bomb",
         "genre": "62",
         "is_tvseries": "1"
     },
@@ -7739,6 +7739,13 @@
         "title": "فينوم 3 الرقصة الأخيرة",
         "slug": "venom-the-last-dance",
         "genre": "113",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1603",
+        "title": "كارثة طبيعية",
+        "slug": "karsa-tabaya",
+        "genre": "63",
         "is_tvseries": "1"
     }
 ]
