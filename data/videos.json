@@ -5447,14 +5447,14 @@
     },
     {
         "videos_id": "1269",
-        "title": "رهايم كن",
+        "title": "دعني وشأني - رهايم كن",
         "slug": "c76e87776b61",
         "genre": "109",
         "is_tvseries": "1"
     },
     {
         "videos_id": "1270",
-        "title": "زخم كاري",
+        "title": "الجرح العميق - زخم كاري",
         "slug": "4de2cca7f2b5",
         "genre": "109",
         "is_tvseries": "1"
@@ -7907,6 +7907,356 @@
         "title": "حلم أشرف ج2 مدبلج",
         "slug": "helm-ashraf-2-ar",
         "genre": "64",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1627",
+        "title": "توب شيف ج9",
+        "slug": "top-chef-9",
+        "genre": "62",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1628",
+        "title": "غريب في المرآة مترجم",
+        "slug": "aynadaki-yabanci",
+        "genre": "64",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1629",
+        "title": "عيناك كالبحر الأسود مترجم",
+        "slug": "aynak-kal-bahr-al-aswad-en",
+        "genre": "64",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1630",
+        "title": "خفقان مترجم",
+        "slug": "khafkan-en",
+        "genre": "64",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1631",
+        "title": "حالات نادرة",
+        "slug": "halat-nadira",
+        "genre": "62",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1632",
+        "title": "المشبوه",
+        "slug": "el-mashbouh",
+        "genre": "64",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1634",
+        "title": "سيموزا",
+        "slug": "semoza",
+        "genre": "63",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1635",
+        "title": "التحقيق ج1 مدبلج",
+        "slug": "el-tahqiq",
+        "genre": "64",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1636",
+        "title": "التحقيق ج2 مدبلج",
+        "slug": "el-tahqiq-2",
+        "genre": "64",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1637",
+        "title": "ورود وذنوب مترجم",
+        "slug": "guller-ve-gunahlar",
+        "genre": "64",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1638",
+        "title": "ولي العهد مترجم",
+        "slug": "veliaht",
+        "genre": "64",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1639",
+        "title": "Stranger Things S05",
+        "slug": "stranger-things-s05",
+        "genre": "115",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1640",
+        "title": "حلم أشرف ج1 مترجم",
+        "slug": "helm-ashraf-1-en",
+        "genre": "64",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1641",
+        "title": "ضي (سيرة أهل الضي)",
+        "slug": "daye-seerat-ahl-el-daye",
+        "genre": "63",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1642",
+        "title": "أريد أن أبقى حيا - مى خواهم زنده بمانم",
+        "slug": "i-want-to-live",
+        "genre": "109",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1643",
+        "title": "2 قهوة",
+        "slug": "2-qahwa",
+        "genre": "63",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1644",
+        "title": "باب الجحيم",
+        "slug": "bab-al-jahim",
+        "genre": "63",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1645",
+        "title": "باب الجحيم ج2",
+        "slug": "bab-al-jahim-2",
+        "genre": "63",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1646",
+        "title": "غيبوبة",
+        "slug": "ghaybuba",
+        "genre": "63",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1647",
+        "title": "المتر بستة ونص - مترى شيش و نيم",
+        "slug": "just-6-5",
+        "genre": "109",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1648",
+        "title": "مثل الحلم",
+        "slug": "ruya-gibi",
+        "genre": "64",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1649",
+        "title": "ذنب الملاك - كناه فرشته",
+        "slug": "fereshtehs-sin",
+        "genre": "109",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1650",
+        "title": "الممثل - اكتور",
+        "slug": "actor",
+        "genre": "109",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1651",
+        "title": "الخاسر - بازنده",
+        "slug": "loser-f",
+        "genre": "109",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1652",
+        "title": "Spartacus: House of Ashur",
+        "slug": "spartacus-house-of-ashur",
+        "genre": "115",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1653",
+        "title": "الفقد - تاسيان",
+        "slug": "agony-s01",
+        "genre": "109",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1654",
+        "title": "المحكوم",
+        "slug": "condemned",
+        "genre": "109",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1655",
+        "title": "ارض الصيد - شكاركاه",
+        "slug": "hunting-ground-fr",
+        "genre": "109",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1656",
+        "title": "شغال",
+        "slug": "jackal-fr",
+        "genre": "109",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1657",
+        "title": "ورود حمراء ج2 مدبلج",
+        "slug": "worood-hamra-2",
+        "genre": "64",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1658",
+        "title": "مش مهم الاسم",
+        "slug": "mish-mohem-al-esm",
+        "genre": "63",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1659",
+        "title": "ميد تيرم",
+        "slug": "midterm",
+        "genre": "63",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1660",
+        "title": "وينك من زمان",
+        "slug": "waink-min-zaman",
+        "genre": "62",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1661",
+        "title": "هيبتا 2: المناظرة الأخيرة",
+        "slug": "hepta-2-al-monathara-al-akheera",
+        "genre": "63",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1662",
+        "title": "الوريث مدبلج",
+        "slug": "al-wareeth",
+        "genre": "64",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1663",
+        "title": "المؤسس أورهان مدبلج",
+        "slug": "kurulus-orhan-ar",
+        "genre": "64",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1664",
+        "title": "مدرسة النخبة ج2",
+        "slug": "madraset-al-nokhba-2",
+        "genre": "62",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1665",
+        "title": "لا ترد ولا تستبدل",
+        "slug": "la-torad-wa-la-tostabdal",
+        "genre": "63",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1666",
+        "title": "فيها إيه يعني",
+        "slug": "feeha-eh-yaani",
+        "genre": "63",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1667",
+        "title": "جوازة توكسيك",
+        "slug": "gawaza-toxic",
+        "genre": "63",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1668",
+        "title": "رهين",
+        "slug": "the-fakenapping",
+        "genre": "62",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1669",
+        "title": "البلدة الصغيرة",
+        "slug": "the-town",
+        "genre": "64",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1670",
+        "title": "Man Vs Baby",
+        "slug": "man-vs-baby",
+        "genre": "115",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1671",
+        "title": "أثر بارد",
+        "slug": "athar-bared",
+        "genre": "62",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1672",
+        "title": "Stranger Things S01",
+        "slug": "stranger-things-1",
+        "genre": "115",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1673",
+        "title": "Stranger Things S02",
+        "slug": "stranger-things-2",
+        "genre": "115",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1674",
+        "title": "Stranger Things S03",
+        "slug": "stranger-things-3",
+        "genre": "115",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1675",
+        "title": "Stranger Things S04",
+        "slug": "stranger-things-4",
+        "genre": "115",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1676",
+        "title": "سنجل ماذر فاذر",
+        "slug": "single-mother-father",
+        "genre": "63",
+        "is_tvseries": "1"
+    },
+    {
+        "videos_id": "1677",
+        "title": "ليل",
+        "slug": "lail",
+        "genre": "63",
         "is_tvseries": "1"
     }
 ]
