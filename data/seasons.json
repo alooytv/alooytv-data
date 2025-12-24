@@ -10673,26 +10673,5 @@
         "seasons_name": "الموسم الرابع",
         "order": "0",
         "publish": "1"
-    },
-    {
-        "seasons_id": "1544",
-        "videos_id": "1676",
-        "seasons_name": "الموسم الاول",
-        "order": "0",
-        "publish": "1"
-    },
-    {
-        "seasons_id": "1545",
-        "videos_id": "1677",
-        "seasons_name": "الموسم الاول",
-        "order": "0",
-        "publish": "1"
-    },
-    {
-        "seasons_id": "1546",
-        "videos_id": "1678",
-        "seasons_name": "الموسم الاول",
-        "order": "0",
-        "publish": "1"
     }
 ]
