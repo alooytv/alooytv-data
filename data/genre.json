@@ -126,5 +126,21 @@
         "slug": "asia-series",
         "publication": "1",
         "featured": "1"
+    },
+    {
+        "genre_id": "118",
+        "name": "رمضان خليجي 2026 ★",
+        "description": "رمضان خليجي 2026",
+        "slug": "ramadan-kleeji-2026",
+        "publication": "1",
+        "featured": "1"
+    },
+    {
+        "genre_id": "119",
+        "name": "رمضان عربي 2026 ★",
+        "description": "رمضان عربي 2026",
+        "slug": "ramadan-arabi-2026",
+        "publication": "1",
+        "featured": "1"
     }
 ]
